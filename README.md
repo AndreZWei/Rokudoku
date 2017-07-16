@@ -4,7 +4,7 @@
 A *6 by 6 sudoku* (a *rokudoku*) is defined as a 6 by 6 grid such that the numbers {1, 2, ..., 6} appears on each column, row, and 2 by 3 blocks exactly once. An example of a rokudoku is as follows:
 
 <center>
-<img src = img/rokudoku1.png> 
+<img src = img/rokudoku2.png> 
 </center>
 
 <p>
